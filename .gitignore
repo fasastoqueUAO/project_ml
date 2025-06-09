@@ -19,7 +19,7 @@ ENV/
 .vscode/
 
 # Archivos de datos grandes o temporales
-*.csv
+#*.csv
 *.tsv
 *.xls
 *.xlsx
