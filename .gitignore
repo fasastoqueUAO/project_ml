@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos de datos grandes o temporales
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.db
+*.sqlite3
+
+# Salidas de ejecución
+*.log
+*.out
+
+# Archivos de dependencias generados automáticamente
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Otros
+*.bak
+*.tmp
