@@ -133,3 +133,10 @@ La siguiente tabla y gráfica resumen el desempeño de los modelos evaluados:
 - El proyecto evidencia la importancia del preprocesamiento y la exploración de datos en el desarrollo de modelos de aprendizaje automático aplicados a problemas reales.
 
 ---
+
+## Anexos
+
+1. Avance 1 proyecto: https://drive.google.com/file/d/1rH7yOpio2VBpnKKzhcJXfUFnBLyhzcS_/view?usp=sharing
+2. Presentación Final Proyecto: https://docs.google.com/presentation/d/1KIuFm-eZzntik0vkU8siCSWr4W_sW7-N/edit?usp=sharing&ouid=109200381175192477660&rtpof=true&sd=true
+3. Articulo entrega Final: https://drive.google.com/file/d/1Efkkxnhtg4AsvIfBMkWftPbwLqQPgzIa/view?usp=sharing
+4. Link del Repositorio de Github: https://github.com/fasastoqueUAO/project_ml.git
